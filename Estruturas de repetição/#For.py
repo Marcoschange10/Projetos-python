@@ -23,6 +23,6 @@ matrix_numeros=[
 ]
 
 for linha in matrix_numeros:
-   # print('---')
+    print('---')
     for coluna in linha:
         print(coluna)
