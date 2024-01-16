@@ -21,12 +21,10 @@ elif opcao == 2:
 elif opcao == 3:
    total = preco - (preco * -5 / 100)
    print(f'Sua compra será em 2 vezes de: {total / 2:.2f}. Sendo no valor total de {total:.2f}')
-   # 5 % de acréscimo 
 
 elif opcao == 4:
    total = preco - (preco * -10 / 100)
    print(f'Sua compra sera em 3 vezes de: {total / 3:.2f}. Sendo no valor total de: {total:.2f}')
-   # 10% de acréscimo 
 
 else: 
    print('Opção invalida')

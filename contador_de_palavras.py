@@ -8,10 +8,6 @@ def analise_texto(texto):
     print(f'Número de caracteres {caracteres}')
     print(f'Número de linhas {linhas}')
 
-
-
-
-
 texto_usuario=input('Insira seu texto aqui: \n')
 
 analise_texto(texto_usuario)

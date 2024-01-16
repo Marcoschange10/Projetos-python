@@ -22,4 +22,4 @@ def obter_previsao_tempo(cidade='São Paulo'):
 
 previsao_sao_paulo = obter_previsao_tempo()
 
-print(f'a previsao para São Pualo é de {previsao_sao_paulo}')
+print(f'a previsao para São Paulo é de {previsao_sao_paulo}')
